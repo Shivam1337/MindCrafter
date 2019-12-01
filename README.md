@@ -52,7 +52,7 @@ This type of disorder can be analyzed with mania & Depression together. Because 
 
 
 
-##### [187 More Issues](issues_list.txt) with Symptoms and Data Collection Method can be analyzed for ML Model training.
+##### 187 More Issues with Symptoms and Data Collection Method can be analyzed for ML Model training.
 
 <div style="text-align:center">
 <img src="assets/banner.png" 
