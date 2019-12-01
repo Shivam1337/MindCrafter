@@ -90,6 +90,7 @@ Each user generates more than 100+ behavioral data points each day. Which can he
 
 #### Plan on using On-Device ML technology
 On-device APIs can process your data quickly and work even when there’s no network connection. Cloud-based APIs, on the other hand, leverage the power of Google Cloud Platform's machine learning technology to give you an even higher level of accuracy.
+
 |On Device ML Kit API's|Use Cases (examples)|
 |--|--|
 |Text recognition|Language Preference Detection|
@@ -98,6 +99,7 @@ On-device APIs can process your data quickly and work even when there’s no net
 |Smart Reply| ChatBot Reply Helper|
 |AutoML model inference|On-device ML inference|
 |Custom model inference|On-device ML inference|
+
 #### Project Timeline 
 
 |Start Date| End date| Milestones|
