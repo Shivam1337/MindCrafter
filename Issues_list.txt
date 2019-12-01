@@ -1,0 +1,230 @@
+A:
+Acute stress disorder
+Adjustment disorder
+Adolescent antisocial behavior
+Adult antisocial behavior
+Agoraphobia
+Alcohol abuse
+Alcohol dependence
+Alcohol withdrawal
+Alcoholic hallucinosis
+Alice in wonderland syndrome
+Alzheimer's disease
+Amnestic disorder
+Amphetamine dependence
+Anosognosia
+Anorexia nervosa
+Anterograde amnesia
+Antisocial personality disorder
+Anxiety disorder
+Asperger's syndrome
+Atelophobia
+Attention deficit hyperactivity disorder/Attention deficit disorder
+Autism
+Autophagia
+Avoidant personality disorder
+Avoidant/restrictive food intake disorder
+Atypical depression
+
+B:
+Barbiturate dependence
+Benzodiazepine dependence
+Benzodiazepine misuse
+Benzodiazepine withdrawal
+Bereavement
+Bibliomania
+Binge eating disorder
+Bipolar disorder
+Bipolar I disorder
+Bipolar II disorder
+Body dysmorphic disorder
+Borderline intellectual functioning
+Borderline personality disorder
+Brief psychotic disorder
+Bulimia nervosa
+
+C:
+Caffeine-induced anxiety disorder
+Caffeine-induced sleep disorder
+Cannabis dependence
+Capgras delusion
+Catalepsy (Narcolepsy)
+Catatonia
+Catatonic schizophrenia
+Circadian rhythm sleep disorder
+Claustrophobia
+Clinical Depression
+Cocaine dependence
+Cocaine intoxication
+Cognitive disorder
+Communication disorder
+Conduct disorder
+Cotard delusion
+Cyclothymia
+
+D:
+Delirium tremens
+Delusional disorder
+Depersonalization disorder
+Derealization
+Dermatillomania
+Desynchronosis
+Developmental coordination disorder
+Diogenes Syndrome
+Dissociative identity disorder
+Dyscalculia
+Dyslexia
+Depression
+
+E:
+Ekbom's Syndrome (Delusional Parasitosis)
+Encephalitis lethargica (Narcolepsy)
+Encopresis
+Epilepsy
+Enuresis (not due to a general medical condition)
+Erotomania
+Exhibitionism
+
+F:
+Factitious disorder
+Fregoli delusion
+Fugue state
+
+G:
+Ganser syndrome
+Generalized anxiety disorder
+General adaptation syndrome
+Grandiose delusions
+Garchichiliosis
+
+H:
+Hallucinogen-related disorder
+Hallucinogen persisting perception disorder
+Histrionic personality disorder
+Huntington's vaginal disease
+Hypomanic episode
+Hypochondriasis
+Hysteria
+
+I:
+Insomnia
+Impostor Syndrome
+Intermittent explosive disorder
+
+K:
+Kleptomania
+Korsakoff's syndrome
+
+L:
+Lacunar amnesia
+
+M:
+Major depressive disorder
+Major depressive episode
+Maladaptive daydreaming
+Male erectile disorder
+Malingering
+Manic episode
+Mathematics disorder
+Melancholia
+Megalomania
+Minor depressive disorder
+Misophonia
+Mixed episode
+Mood disorder
+Munchausen's syndrome
+
+N:
+Narcissistic personality disorder
+Narcolepsy
+Neurocysticercosis
+Neurodevelopmental disorder
+Nicotine withdrawal
+Night eating syndrome
+Nightmare disorder
+
+O:
+Obsessive-compulsive disorder (OCD)
+Obsessive-compulsive personality disorder (OCPD)
+Ondine's curse
+Oneirophrenia
+Opioid dependence
+Opioid-related disorder
+Oppositional defiant disorder (ODD)
+Orthorexia (ON)
+Obsessive Love (Disorder)
+
+P:
+Pain disorder
+Panic disorder
+Paranoid personality disorder
+Parasomnia
+Parkinson's disease
+Partialism
+Pathological gambling
+Persecutory delusion
+Personality disorder
+Pervasive developmental disorder not otherwise specified (PDD-NOS)
+Phencyclidine (or phencyclidine-like)-related disorder
+Phobic disorder
+Pica (disorder)
+Psychosis
+Phonological disorder
+Physical abuse
+Polysubstance-related disorder
+Posttraumatic stress disorder (PTSD)
+Premature ejaculation
+Primary hypersomnia
+Primary insomnia
+Pseudologia fantastica
+Psychogenic amnesia
+Psychotic disorder
+Pyromania
+
+R:
+Reactive attachment disorder of infancy or early childhood
+Recurrent brief depression
+Relational disorder
+Residual schizophrenia
+Retrograde amnesia
+Rumination syndrome
+
+S:
+Schizoaffective disorder
+Schizoid personality disorder
+Schizophrenia
+Schizophreniform disorder
+Schizotypal personality disorder
+Seasonal affective disorder
+Sedative-, hypnotic-, or anxiolytic-related disorder
+Selective mutism
+Separation anxiety disorder
+Sexual fetishism
+Shared psychotic disorder
+Sleep disorder
+Sleep terror disorder
+Sleepwalking disorder
+Sleep paralysis
+Social anxiety disorder
+Social phobia
+Somatization disorder
+Somatoform disorder
+Specific phobia
+Stereotypic movement disorder
+Stockholm syndrome
+Stuttering
+Substance-related disorder
+Suicidal ideation (Suicidal Thoughts)
+Suicide
+
+T:
+Tardive dyskinesia
+Tic disorder
+Tourettes Syndrome
+Transient global amnesia
+Transvestic disorder
+Trichotillomania
+Truman Syndrome
+
+U:
+Undifferentiated Somatoform Disorder (Somatic symptom disorder)
