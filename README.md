@@ -15,6 +15,11 @@ alt="assistant-guide"/>
 </div>
 
 ### Plan to bring it to Life
+<div style="text-align:center">
+<img src="assets/product.png" 
+alt="assistant-guide"/>
+</div>
+
 ##### Working Explanation
 I am primarily focusing on the five most important mental issues. 2 out of 5 adults have these issues. I'll be using Smart devices with Android OS to collect behavioral data like sleep times & heart rate of the user.
 ##### Anxiety (Excessive Fear)
