@@ -93,6 +93,11 @@ Each user generates more than 100+ behavioral data points each day. Which can he
 - Google could help with Google API's integration like Youtube API & Music API.
 - This application could impact thousands of people but with Google, it can impact millions of people who don't even know that they need help.
 
+<div style="text-align:center">
+<img src="assets/repository-open-graph-template.png" 
+alt="open-header"/>
+</div>
+
 #### Plan on using On-Device ML technology
 On-device APIs can process your data quickly and work even when there’s no network connection. Cloud-based APIs, on the other hand, leverage the power of Google Cloud Platform's machine learning technology to give you an even higher level of accuracy.
 
