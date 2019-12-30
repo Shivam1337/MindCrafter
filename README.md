@@ -103,7 +103,7 @@ On-device APIs can process your data quickly and work even when there’s no net
 
 |On Device ML Kit API's|Use Cases (examples)|
 |--|--|
-|Text recognition|Language Preference Detection|
+|Text recognition|Language Processing & Conversation Engine|
 |Face detection| Facial Emotion & Heart rate Tracking|
 |Object detection & tracking| AR Based Meditation Guide|
 |Smart Reply| ChatBot Reply Helper|
