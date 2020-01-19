@@ -125,10 +125,6 @@ On-device APIs can process your data quickly and work even when there’s no net
 |21 March | 31 March | User Experience Testing|
 |April Start|April End | Deployment & Testing|
 
-
-
-
-
 ### A little about me
 I have developed some applications in Flutter(Dart) and java both. I am currently learning about Artificial Intelligence and machine learning. I have some people in my life who have mental issues and problems but they never accepted or recognized what their problem was. But now I think with the help of machine learning I can develop an application that is able to recognize & diagnose normal mental illnesses like stress, anxiety & depression.
 
