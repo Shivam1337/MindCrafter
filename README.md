@@ -114,16 +114,16 @@ On-device APIs can process your data quickly and work even when there’s no net
 
 |Start Date| End date| Milestones|
 |---|---|---|
-|2 November|30 November| Study about digital diagnosis|
-|1 December| 12 December | Planning about ML integration|
-|13 December| 24 December | Analysis Modelling|
-|28 December| 18 January | Development (Templates & Operations)|
-|20 January| 30 January | Tensorflow lite Integration|
-|1 February | 20 February | Machine Learning Training & Debugging|
-|23 February | 3 March | Functional Testing|
-|4 March | 20 March | User Interface Designing|
-|21 March | 31 March | User Experience Testing|
-|April Start|April End | Deployment & Testing|
+|2 April|29 April| Study about digital diagnosis|
+|1 May| 18 May | Planning about ML integration|
+|19 May| 2 June | Analysis Modelling|
+|3 June| 23 June | Development (Templates & Operations)|
+|24 June| 3 July | Tensorflow lite Integration|
+|4 July | 20 July | Machine Learning Training & Debugging|
+|23 July | 3 August | Functional Testing|
+|4 August | 20 August | User Interface Designing|
+|21 August | 31 August | User Experience Testing|
+|Final Deployment 1 September| Deployment & Testing|
 
 ### A little about me
 I have developed some applications in Flutter(Dart) and java both. I am currently learning about Artificial Intelligence and machine learning. I have some people in my life who have mental issues and problems but they never accepted or recognized what their problem was. But now I think with the help of machine learning I can develop an application that is able to recognize & diagnose normal mental illnesses like stress, anxiety & depression.
