@@ -125,14 +125,6 @@ On-device APIs can process your data quickly and work even when there’s no net
 |21 August | 31 August | User Experience Testing|
 |Final Deployment 1 September| Deployment & Testing|
 
-### A little about me
-I have developed some applications in Flutter(Dart) and java both. I am currently learning about Artificial Intelligence and machine learning. I have some people in my life who have mental issues and problems but they never accepted or recognized what their problem was. But now I think with the help of machine learning I can develop an application that is able to recognize & diagnose normal mental illnesses like stress, anxiety & depression.
-
-I am pursuing my bachelor's degree program in computer engineering. I have done many internships in development, graphic designing, and marketing. I have work experience of 2 years at an AdTech Startup & I've published my app on google play store.
-
-Previous Application : [Stocks Expert App](https://play.google.com/store/apps/details?id=com.invager.invager)
-
-
 #### Why Mental Problems ?
 
 ###### National Alliance on Mental Illness Report -  Sept. 2019 
